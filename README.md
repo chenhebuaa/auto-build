@@ -1,2 +1,2 @@
-# auto-build
-Including some tests for alauda cloud
+# tutorial-autobuild-myhello
+This is a repo for tutorial chapter: autobuild
